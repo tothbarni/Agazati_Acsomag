@@ -18,7 +18,7 @@ sorozat.konzol_kiir(db)
 sorozat.fajlba_kiir(db)
 
 #III
-lista = poggyasz1.beolvasas("csomag.txt")
+lista = poggyasz1.beolvasas()
 poggyasz1.poggyaszok(lista)
 poggyasz1.atlag_tomeg(lista)
 poggyasz1.legm_poggy(lista)
